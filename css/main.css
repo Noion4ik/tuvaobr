@@ -1,0 +1,83 @@
+body{
+	background:#eee;
+	font-family:Verdana, Helvetica, Arial, sans-serif;
+	margin:0;
+	padding:0
+}
+.AvtorisationBlock{
+	background:#FFF;
+	color: black;
+	width:625px;
+	font-size:80%;
+	border:1px #000 solid;
+	margin:3.5em auto 2em;
+	padding:1em 2em 2em
+}
+.CreateLogin{
+	border:1px #DDD solid;/*устанавливает границы блока(принимает 3 параметра: толщина, стиль и цвет) */
+	margin:20px auto;/*отступ от родительского элемента*/
+	padding:10px;/*граница до вооброжаемого прямоугольника, который ограничивает его отображение */
+	font-size:14px;
+	text-align:center;
+	display:none;/*делаем блок невидимым*/
+}
+.AvtorisationLogin{
+	border:1px #DDD solid;/*устанавливает границы блока(принимает 3 параметра: толщина, стиль и цвет) */
+	margin:20px auto;/*отступ от родительского элемента*/
+	padding:10px;/*граница до вооброжаемого прямоугольника, который ограничивает его отображение */
+	font-size:14px;
+	text-align:center;
+	display:none;/*делаем блок невидимым*/
+}
+.AvtorisationBlock2{
+	background:#FFF;
+	color: black;
+	/*width:625px;*/
+	width:1200px;
+	font-size:80%;
+	border:1px #000 solid;
+	margin:3.5em auto 2em;
+	padding:1em 2em 2em
+	display:none;/*делаем блок невидимым*/
+}
+.AvtorisationBlock3{
+	background:#FFF;
+	color: black;
+	/*width:625px;*/
+	width:1200px;
+	font-size:80%;
+	border:1px #000 solid;
+	margin:3.5em auto 2em;
+	padding:1em 2em 2em
+	display:none;/*делаем блок невидимым*/
+}
+#kv1, #kv4, #kv3{
+    width:80px;
+    height:100px;
+    float:left;
+    background:red;
+    margin:5px;
+    color:white;
+    display:none;
+}
+#svernformLogin{
+	border:1px #DDD solid;/*устанавливает границы блока(принимает 3 параметра: толщина, стиль и цвет) */
+	margin:20px auto;/*отступ от родительского элемента*/
+	padding:10px;/*граница до вооброжаемого прямоугольника, который ограничивает его отображение */
+	font-size:14px;
+	text-align:center;
+	display:none;/*делаем блок невидимым*/
+}
+#svernformAvtorisation{
+	border:0px #DDD solid;/*устанавливает границы блока(принимает 3 параметра: толщина, стиль и цвет) */
+	margin:20px auto;/*отступ от родительского элемента*/
+	padding:10px;/*граница до вооброжаемого прямоугольника, который ограничивает его отображение */
+	font-size:14px;
+	text-align:center;
+	display:none;/*делаем блок невидимым*/
+}
+h2{
+	color: rgb(49, 151, 116);
+	
+}
+
